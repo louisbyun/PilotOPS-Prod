@@ -1,5 +1,5 @@
 {
   "version": "0.1.0",
   "released_at": "2026-04-21",
-  "notes": "Pre-release: multi-cloud server list (Vultr + DigitalOcean), OS-keychain key storage, SQLite cache with auto-refresh, in-app Contact form."
+  "notes": "Pre-release of NaruBase™: multi-cloud server list (Vultr + DigitalOcean), OS-keychain key storage, SQLite cache with auto-refresh, in-app Contact form."
 }

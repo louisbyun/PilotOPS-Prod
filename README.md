@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="logo.png" alt="PilotOPS logo" width="96" height="96" />
+<img src="logo.png" alt="NaruBase logo" width="96" height="96" />
 
-# PilotOPS™
+# NaruBase™
 
 **The local-first multi-cloud control panel for indie operators.**
 
@@ -14,11 +14,11 @@ One desktop app to manage your servers across Vultr, DigitalOcean, and more — 
 
 ---
 
-## Why PilotOPS™
+## Why NaruBase™
 
 If you're a solo maker, freelance DevOps, or running a small SaaS, you probably juggle 2–4 cloud provider dashboards. You want to see all your servers in one place, manage them quickly, and keep your data private. The existing options are either AWS-console-bloated enterprise tools or cloud-stored SaaS dashboards that ask for your API keys. Neither fits.
 
-PilotOPS™ is a **lightweight desktop app** that runs entirely on your machine. Your cloud API keys live in your **OS keychain**. We never see your servers, your bills, or your data.
+NaruBase™ is a **lightweight desktop app** that runs entirely on your machine. Your cloud API keys live in your **OS keychain**. We never see your servers, your bills, or your data.
 
 ## Three things that make us different
 
@@ -93,18 +93,18 @@ Installer files (`.exe`, `.dmg`, `.AppImage`) and the user manual will be publis
 
 Feature requests, bug reports, beta access:
 - **Email:** aiswingx.com@gmail.com
-- **In-app:** Open PilotOPS™ → **Contact** tab
+- **In-app:** Open NaruBase™ → **About** tab → Contact form
 
 Built by **Louis Byun** · Powered by **ai Swing X™**
 
 ## License
 
-PilotOPS™ binaries are proprietary, distributed under a one-time-purchase license. This repository contains marketing materials, screenshots, and downloadable installer artifacts only — **not source code**.
+NaruBase™ binaries are proprietary, distributed under a one-time-purchase license. This repository contains marketing materials, screenshots, and downloadable installer artifacts only — **not source code**.
 
 ---
 
 <div align="center">
 
-© 2026 PilotOPS™ · Powered by **ai Swing X™**
+© 2026 NaruBase™ · Powered by **ai Swing X™**
 
 </div>
