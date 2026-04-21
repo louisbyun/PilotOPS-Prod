@@ -1,5 +1,7 @@
 {
-  "version": "0.1.0",
+  "version": "1.0.0",
   "released_at": "2026-04-21",
-  "notes": "Pre-release of NaruBase™: multi-cloud server list (Vultr + DigitalOcean), OS-keychain key storage, SQLite cache with auto-refresh, in-app Contact form."
+  "download_url": "https://github.com/louisbyun/narubase-prod/releases/latest",
+  "notes_url": "https://github.com/louisbyun/narubase-prod/releases/tag/v1.0.0",
+  "notes": "First public release of NaruBase™ Cloud: multi-cloud server list (Vultr, DigitalOcean, Hetzner, Linode), SSH terminal with AI Assist (Claude, GPT, Gemini) + tool calling, 14-day trial + license activation, local-only architecture."
 }
