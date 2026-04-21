@@ -87,7 +87,7 @@ No subscription. No "Pro tier". No usage caps.
 
 **Pre-release (v0.1)** — actively under development. Installer downloads and the buy button are not yet live. Star this repo or [reach out](#contact) to be notified when v1.0 ships.
 
-Installer files (`.exe`, `.dmg`, `.AppImage`) and the user manual will be published here in this repository as releases land.
+Installer files (`.exe`, `.dmg`, `.AppImage`) and the user manual will be published here in this repository as releases land. See [INSTALL.md](INSTALL.md) for what to expect when you install (especially the Windows SmartScreen walkthrough).
 
 ## Contact
 
