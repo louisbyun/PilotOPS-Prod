@@ -15,7 +15,7 @@ One desktop app to manage your servers across Vultr, DigitalOcean, Hetzner, and 
 
 ### [⬇ Download for Windows](https://github.com/louisbyun/narubase-prod/releases/latest) · [📖 Install guide](INSTALL.md)
 
-**14-day free trial, then $99 one-time. No subscription. Ever.**
+**7-day free trial, then $99 one-time. No subscription. Ever.**
 
 </div>
 
@@ -135,12 +135,12 @@ That's it. No analytics endpoint. No license-server heartbeat. No telemetry.
 
 - ✅ Use on all your own machines
 - ✅ All v1.x updates free forever
-- ✅ 14-day free trial, no credit card
+- ✅ 7-day free trial, no credit card
 - ✅ No subscription. No usage caps. No tiers.
 
 Major version upgrade (v2, if ever) at $39.
 
-### [Buy Now — $99](#) · [Try free for 14 days ⬇](https://github.com/louisbyun/narubase-prod/releases/latest)
+### [Buy Now — $99](#) · [Try free for 7 days ⬇](https://github.com/louisbyun/narubase-prod/releases/latest)
 
 *(Buy link activates at public launch)*
 

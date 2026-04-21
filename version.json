@@ -3,5 +3,5 @@
   "released_at": "2026-04-21",
   "download_url": "https://github.com/louisbyun/narubase-prod/releases/latest",
   "notes_url": "https://github.com/louisbyun/narubase-prod/releases/tag/v1.0.0",
-  "notes": "First public release of NaruBase™ Cloud: multi-cloud server list (Vultr, DigitalOcean, Hetzner, Linode), SSH terminal with AI Assist (Claude, GPT, Gemini) + tool calling, 14-day trial + license activation, local-only architecture."
+  "notes": "First public release of NaruBase™ Cloud: multi-cloud server list (Vultr, DigitalOcean, Hetzner, Linode), SSH terminal with AI Assist (Claude, GPT, Gemini) + tool calling, 7-day trial + license activation, local-only architecture."
 }
