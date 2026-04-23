@@ -1,0 +1,5 @@
+{
+  "revoked": [],
+  "issued_at": 1714500000,
+  "note": "License IDs listed here are revoked (e.g., refunded). The app checks this file once a day."
+}
